@@ -112,7 +112,7 @@
         <v-col md="7" sm="8">
           <h1>{{ $t('header.banner.title') }}</h1>
           <p class="my-11">{{ $t('header.banner.text') }}</p>
-          <v-btn class="mt-1" href="https://vk.com/digit37">
+          <v-btn class="mt-1" href="https://vk.com/gim35647046">
             {{ $t('header.banner.button') }}
           </v-btn>
         </v-col>
